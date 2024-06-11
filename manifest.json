@@ -1,0 +1,21 @@
+{
+  "manifest_version": 3,
+  "name": "Chemin's time extension",
+  "version": "1.0.0",
+  "description": "For learning propose",
+  "icons": {
+    "16": "image.png",
+    "48": "image.png",
+    "128": "image.png"
+  },
+  "action": {
+    "default_icon": {
+      "16": "image.png",
+      "24": "image.png",
+      "32": "image.png"
+    },
+    "default_title": "Title chenmin timer",
+    "default_popup": "popup.html"
+  },
+  "options_page": "option.html"
+}
